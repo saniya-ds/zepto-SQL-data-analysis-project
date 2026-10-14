@@ -37,7 +37,7 @@ in Data Analytics, following an online project tutorial.
 
 ## Project Files
 
-- `zepto_sql_data_analysis.sql` - SQL queries used
+- `zepto_project.sql` - SQL queries used
   in the project.
 - `zepto_v2.csv` - Dataset used for analysis,
   if included.
